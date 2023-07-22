@@ -10,4 +10,5 @@ public class PalmOilApiApplication {
         SpringApplication.run(PalmOilApiApplication.class, args);
     }
 
+
 }
